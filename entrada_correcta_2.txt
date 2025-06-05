@@ -1,0 +1,3 @@
+print("Hola ANTLR!");
+print("prueba correcta numero 2");
+print("Todo parece funcionar bien.");
