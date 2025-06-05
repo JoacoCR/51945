@@ -1,4 +1,4 @@
-Instalacion: CLona este repositorio:git clone https://github.com/JoacoCR/51945/edit/main/README.md
+Instalacion: CLona este repositorio:git clone https://github.com/JoacoCR/51945.git
 
 Instrucciones de uso:
 En la carpeta analizador Copiá el contenido de alguno de los archivos de entrada con formato .txt y pegalo en el archivo input.txt .Luego, guardalo(Ctrl+s).
